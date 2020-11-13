@@ -1,4 +1,4 @@
-## Задание 3 2
+## Задание 3.2
 
 1. Реализовать запрос на SPARQL с помощью библиотеки SPARQLWrapper.
 2. Использовать [https://www.wikidata.org/w/api.php](https://www.wikidata.org/w/api.php).
