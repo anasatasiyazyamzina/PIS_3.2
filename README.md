@@ -4,6 +4,8 @@
 2. Использовать [https://www.wikidata.org/w/api.php](https://www.wikidata.org/w/api.php).
 3. Интегрировать код, реализующий запрос на SPARQL, в код к заданию 2.1 так, чтобы запрос выполнялся для фильмов, полученных в результате работы рекомендующего алгоритма.
 
+Код 3.2: https://github.com/anasatasiyazyamzina/PIS_3.2/blob/main/Zyamzina%203.2%20.ipynb
+
 Задание 2.1: https://github.com/anasatasiyazyamzina/RecSys_2.1.
 
 Вариант в 2.1: 8
